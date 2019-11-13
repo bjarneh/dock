@@ -1,6 +1,6 @@
 #/bin/bash
 
-# run python file using python 3 container
+# run bash shell in python:3 container
 docker run \
     --rm \
     -it \
